@@ -65,58 +65,6 @@
 
 <br>
 
-## 🏆 Featured Work
-
-<table>
-  <tr>
-
-    <td width="50%">
-      <h3 align="center">🧪 JSON.LAB</h3>
-      <p align="center">
-        <a href="https://silvajason.github.io/json.lab/">
-          <img src="https://img.shields.io/badge/Visit_JSON.LAB-4285F4?style=for-the-badge" />
-        </a>
-      </p>
-      <p align="center">
-        Personal lab for experiments with data,<br>
-        AI, automation and technology.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Data-4285F4?style=flat-square" />
-        <img src="https://img.shields.io/badge/AI-8E75B2?style=flat-square" />
-        <img src="https://img.shields.io/badge/Automation-FF9800?style=flat-square" />
-      </p>
-    </td>
-
-    <td width="50%">
-      <h3 align="center">🏠 Home Lab</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Home_Assistant-41BDF5?style=for-the-badge" />
-      </p>
-      <p align="center">
-        Experiments with smart home,<br>
-        automation, IoT and technology.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/IoT-4285F4?style=flat-square" />
-        <img src="https://img.shields.io/badge/Automation-FF9800?style=flat-square" />
-      </p>
-    </td>
-
-  </tr>
-</table>
-
-<br>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silvajason&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=silvajason&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-</p>
-
-<br>
-
 ## 🌎 Let's Connect!
 
 <p align="center">
