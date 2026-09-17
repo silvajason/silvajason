@@ -50,13 +50,11 @@
 </tr>
 </table>
 
----
 
 ## 🌎 Languages
 
 Portuguese 🇧🇷 English 🇺🇸 Spanish 🇪🇸
 
----
 
 ## 🛠️ Tech Stack
 
@@ -84,7 +82,6 @@ Portuguese 🇧🇷 English 🇺🇸 Spanish 🇪🇸
 
 </p>
 
----
 
 ## 🏠 Home Lab & Automation
 
