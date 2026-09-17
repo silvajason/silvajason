@@ -36,6 +36,7 @@
 - 🧪 Experiments & Side Projects
 
 </td>
+
 <td valign="top" width="50%">
 
 ### 🚀 What I like to build
@@ -49,6 +50,14 @@
 </td>
 </tr>
 </table>
+
+---
+
+## 🌎 Languages
+
+- 🇧🇷 Portuguese — Native
+- 🇺🇸 English — Fluent
+- 🇪🇸 Spanish — Fluent
 
 ---
 
