@@ -55,7 +55,7 @@
 
 ## 🌎 Languages
 
--  Portuguese 🇧🇷 English 🇺🇸 Spanish 🇪🇸
+Portuguese 🇧🇷 English 🇺🇸 Spanish 🇪🇸
 
 ---
 
